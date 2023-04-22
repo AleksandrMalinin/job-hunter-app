@@ -4,7 +4,7 @@
     "web": {
       "bundler": "metro"
     },
-    "name": "justathought",
-    "slug": "justathought"
+    "name": "job-hunter-app",
+    "slug": "job-hunter-app"
   }
 }
